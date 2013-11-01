@@ -1,0 +1,18 @@
+PROMGEN: Xilinx Prom Generator M.81d
+Copyright (c) 1995-2010 Xilinx, Inc.  All rights reserved.
+
+promgen -w -p mcs -c FF -o C:\Users\bylsma\Projects\DCFEB\firmware\ISE_12.4\dcfeb_f3a//dcfeb3a_v71.mcs -x xcf128x -u 00000000 C:/Users/bylsma/Projects/DCFEB/firmware/ISE_12.4/dcfeb_f3a/dcfeb3a_v71.bit -data_file up 300000 C:/Users/bylsma/Projects/DCFEB/firmware/ISE_14.6/dcfeb_f3a/DCFEB.hex -bpi_dc parallel -data_width 16 
+
+PROM C:\Users\bylsma\Projects\DCFEB\firmware\ISE_12.4\dcfeb_f3a\dcfeb3a_v71.prm map: Fri Nov 01 14:41:25 2013
+
+Calculating PROM checksum with fill value ff
+
+Format        Mcs86 (32-bit)
+Size          16384K
+PROM start    0000:0000
+PROM end      00ff:ffff
+PROM checksum acea6bb4
+
+        Addr1        Addr2                     Date File(s)
+    0000:0000    0053:638b     Nov 01 14:38:19 2013 C:/Users/bylsma/Projects/DCFEB/firmware/ISE_12.4/dcfeb_f3a/dcfeb3a_v71.bit
+    0060:0000    0060:000f     Oct 31 13:36:26 2013 C:/Users/bylsma/Projects/DCFEB/firmware/ISE_14.6/dcfeb_f3a/DCFEB.hex
