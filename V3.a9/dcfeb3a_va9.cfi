@@ -1,0 +1,12 @@
+# PROMGEN: Xilinx Prom Generator P.20131013
+# Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+SOFTWARE_VERSION P.20131013
+DATE            02/21/2014 - 17:09
+SOURCE          C:\Users\bylsma\Projects\DCFEB\firmware\ISE_14.7\dcfeb3a\dcfeb3a_va9.mcs
+DEVICE          16384K
+DATA_WIDTH      16
+FILL_DATA       0xFF
+SIGNATURE       0xAD17AAE4
+START_ADDRESS   0x00000000 END_ADDRESS 0x0053638B DIRECTION_UP   "C:/Users/bylsma/Projects/DCFEB/firmware/ISE_14.7/dcfeb3a/dcfeb3a_va9.bit" 6vlx130tff1156
+START_ADDRESS   0x00600000 END_ADDRESS 0x0060000F DIRECTION_UP   "C:/Users/bylsma/Projects/DCFEB/firmware/ISE_14.7/dcfeb3a/DCFEB.hex" DATAFILE
